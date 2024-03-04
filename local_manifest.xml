@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/chime" name="gooseprjkt/device_xiaomi_chime.git" remote="github" revision="omnirom-14.0" />
+ <project path="vendor/xiaomi/chime" name="gooseprjkt/vendor_xiaomi_chime.git" remote="github" revision="fourteen" />
+ <project path="kernel/xiaomi/chime" name="gooseprjkt/kernel_xiaomi_chime.git" remote="github" revision="fourteen" />
+ 
+</manifest>
